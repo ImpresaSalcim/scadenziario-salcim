@@ -1,0 +1,9 @@
+services:
+  - type: cron
+    name: scadenziario-cron
+    env: python
+    runtime: python3
+    region: frankfurt
+    buildCommand: ""
+    startCommand: "python scadenziario_excel_auto.py"
+    schedule: "0 5 * * *"

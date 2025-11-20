@@ -1,0 +1,8 @@
+{
+  "email_mittente": "info@salcim.it",
+  "password_app": "LA_TUA_PASSWORD_APP",
+  "smtp_server": "smtps.aruba.it",
+  "smtp_port": 465,
+  "email_destinatario": "info@salcim.it",
+  "google_drive_file_id": "1TsYm9jAaNREbTXf7YNTswPr7FOHuvQ7K"
+}
